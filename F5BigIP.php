@@ -1,3 +1,5 @@
+<?php
+
 final class F5BigIP
 {
     private function dec2hex($decimal, $length = 2)
